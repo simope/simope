@@ -16,7 +16,6 @@ I'm now in London looking for a new job position, where ideally I can use the sk
 ## My tech stack (expanding)
 
 <div >
-<<<<<<< HEAD
 	<img width="50" src="assets\imgs\python.png"
     alt="Python" title="Python"/>
     <img width="50" src="assets\imgs\git.png"
@@ -35,26 +34,6 @@ I'm now in London looking for a new job position, where ideally I can use the sk
     alt="PyTest" title="PyTest"/>
     <img width="50" src="assets\imgs\Matplotlib.png"
     alt="Matplotlib" title="Matplotlib"/>
-=======
-	<img width="50" style="margin-right: 25"
-    src="assets\imgs\python.png" alt="Python" title="Python"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\git.png" alt="Git" title="Git"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\linux.png" alt="Linux" title="Linux"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\Docker.png" alt="Docker" title="Docker"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\NumPy.png" alt="NumPy" title="NumPy"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\sql.png" alt="SQL" title="SQL"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\vscode.png" alt="VSCode" title="VSCode"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\pytest.png" alt="PyTest" title="PyTest"/>
-    <img width="50" style="margin-right: 25; margin-top: 25"
-    src="assets\imgs\Matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
->>>>>>> be3719605bf0f9accad63815728a918bb96c9da7
 </div>
 
 
@@ -135,15 +114,4 @@ Transforming the development of advanced materials and high-tech devices, reduci
     </td>
 </tr>
 
-<<<<<<< HEAD
 </table>
-=======
-<br>
-
-<div>
-    <img width="50"
-    src="assets\imgs\phone.png" alt="My Email" title="My Email"/>
-    <p style="margin-left: 70; margin-top: -53">+44 07405045651 🇬🇧 </p>
-    <p style="margin-left: 70; margin-top: -15">+39 03895475461 🇮🇹 </p>
-</div>
->>>>>>> be3719605bf0f9accad63815728a918bb96c9da7
