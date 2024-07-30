@@ -1,6 +1,6 @@
-# Hi there, I'm Simone! 🙋🏻‍♂️
+# Hi there, I'm Simone 🙋🏻‍♂️
 
-<br>
+### Welcome to my GitHub profile!
 
 ## About me 
 I'm a R&D Engineer and Python developer with a passion for high-tech and cutting-edge science. <br> I'm always ready to learn some new technology, and the objective of this GitHub profile will be showing some of the projects I will work on in order to train myself and showcase my skills.
@@ -14,28 +14,24 @@ I'm now in London looking for a new job position, where ideally I can use the sk
 <br>
 
 ## My tech stack (expanding)
-
-<div >
-	<img width="50" src="assets\imgs\python.png"
-    alt="Python" title="Python"/>
-    <img width="50" src="assets\imgs\git.png"
-    alt="Git" title="Git"/>
-    <img width="50" src="assets\imgs\linux.png"
-    alt="Linux" title="Linux"/>
-    <img width="50" src="assets\imgs\docker.png"
-    alt="Docker" title="Docker"/>
-    <img width="50" src="assets\imgs\NumPy.png"
-    alt="NumPy" title="NumPy"/>
-    <img width="50" src="assets\imgs\sql.png"
-    alt="SQL" title="SQL"/>
-    <img width="50" src="assets\imgs\vscode.png"
-    alt="VSCode" title="VSCode"/>
-    <img width="50" src="assets\imgs\pytest.png"
-    alt="PyTest" title="PyTest"/>
-    <img width="50" src="assets\imgs\Matplotlib.png"
-    alt="Matplotlib" title="Matplotlib"/>
-</div>
-
+<img width="50" src="assets\imgs\python.png"
+alt="Python" title="Python"/> 
+<img width="50" src="assets\imgs\sql.png"
+alt="SQL" title="SQL"/>
+<img width="50" src="assets\imgs\git.png"
+alt="Git" title="Git"/>
+<img width="50" src="assets\imgs\linux.png"
+alt="Linux" title="Linux"/>
+<img width="50" src="assets\imgs\docker.png"
+alt="Docker" title="Docker"/>
+<img width="50" src="assets\imgs\NumPy.png"
+alt="NumPy" title="NumPy"/>
+<img width="50" src="assets\imgs\vscode.png"
+alt="VSCode" title="VSCode"/>
+<img width="50" src="assets\imgs\pytest.png"
+alt="PyTest" title="PyTest"/>
+<img width="50" src="assets\imgs\Matplotlib.png"
+alt="Matplotlib" title="Matplotlib"/>
 
 ## My work experience
 
