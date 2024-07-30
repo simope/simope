@@ -16,24 +16,24 @@ I'm now in London looking for a new job position, where ideally I can use the sk
 ## My tech stack (expanding)
 
 <div >
-	<img width="50" style="margin-right: 25"
-    src="assets\imgs\python.png" alt="Python" title="Python"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\git.png" alt="Git" title="Git"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\linux.png" alt="Linux" title="Linux"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\docker.png" alt="Docker" title="Docker"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\NumPy.png" alt="NumPy" title="NumPy"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\sql.png" alt="SQL" title="SQL"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\vscode.png" alt="VSCode" title="VSCode"/>
-    <img width="50" style="margin-right: 25"
-    src="assets\imgs\pytest.png" alt="PyTest" title="PyTest"/>
-    <img width="50" style="margin-right: 25; margin-top: 25"
-    src="assets\imgs\Matplotlib.png" alt="Matplotlib" title="Matplotlib"/>
+	<img width="50" src="assets\imgs\python.png"
+    alt="Python" title="Python"/>
+    <img width="50" src="assets\imgs\git.png"
+    alt="Git" title="Git"/>
+    <img width="50" src="assets\imgs\linux.png"
+    alt="Linux" title="Linux"/>
+    <img width="50" src="assets\imgs\docker.png"
+    alt="Docker" title="Docker"/>
+    <img width="50" src="assets\imgs\NumPy.png"
+    alt="NumPy" title="NumPy"/>
+    <img width="50" src="assets\imgs\sql.png"
+    alt="SQL" title="SQL"/>
+    <img width="50" src="assets\imgs\vscode.png"
+    alt="VSCode" title="VSCode"/>
+    <img width="50" src="assets\imgs\pytest.png"
+    alt="PyTest" title="PyTest"/>
+    <img width="50" src="assets\imgs\Matplotlib.png"
+    alt="Matplotlib" title="Matplotlib"/>
 </div>
 
 
@@ -51,46 +51,67 @@ Transforming the development of advanced materials and high-tech devices, reduci
 
 ## My education
 
-<div>
-<img width="100" style="margin-top: 35" src="assets\imgs\polito.png"
-    alt="My LinkedIn" title="My LinkedIn"/>
-<p style="margin-left: 150; margin-top: -120">
-<b>Master of Science in Nanotechnologies, 1st class</b>
-<br>
-Politecnico di Torino, Italy, 2019-2021<br>
-Thesis on: <i>Electrical and optical simulation of
-a Buried Tunnel Junction VCSEL</i>
-<br><br>
-<b>Bachelor of Science in Engineering Physics</b>
-<br>
-Politecnico di Torino, Italy, 2014-2019
-</p>
-</div>
+<table>
+<tr>
+<td>
+    <img width="150" src="assets\imgs\polito.png" alt="PoliTo" title="PoliTo"/>  
+</td>
+
+<td>
+    <b>Master of Science in Nanotechnologies, 1st class</b>
+    <br>
+    Politecnico di Torino, Italy, 2019-2021<br>
+    Thesis on: <i>Electrical and optical simulation of
+    a Buried Tunnel Junction VCSEL</i>
+    <br><br>
+    <b>Bachelor of Science in Engineering Physics</b>
+    <br>
+    Politecnico di Torino, Italy, 2014-2019
+</td>
+
+</tr>
+</table>
+
+
 
 ## My contacts
 
+<table align="center">
 
-<a  href="https://www.linkedin.com/in/simonepecora95/">
-    <img width="50" src="assets\imgs\linkedin.png"
-    alt="My LinkedIn" title="My LinkedIn"/>
-    <p style="margin-left: 70; margin-top: -43">My LinkedIn page</p>
-</a>
+<tr>
+    <td>
+        <a  href="https://www.linkedin.com/in/simonepecora95/">
+        <img width="50" margin=150 src="assets\imgs\linkedin.png"
+        alt="My LinkedIn" title="My LinkedIn"/>
+        </a>
+    </td>
+    <td>
+        <p>My LinkedIn page</p>
+    </td>
+</tr>
 
-<br>
+<tr>
+    <td>
+        <a  href="mailto:simonepecora@live.it">
+        <img width="50"
+        src="assets\imgs\mail.png" alt="My Email" title="My Email"/>
+        </a>
+    </td>
+    <td>
+            <p>simonepecora@live.it</p>
+    </td>
+</tr>
 
-<a  href="mailto:simonepecora@live.it">
-    <div>
-    <img width="50"
-    src="assets\imgs\mail.png" alt="My Email" title="My Email"/>
-    <p style="margin-left: 70; margin-top: -43">simonepecora@live.it</p>
-    </div>
-</a>
+<tr>
+    <td>
+        <img width="50"
+        src="assets\imgs\phone.png" alt="My Email" title="My Email"/>
+    </td>
+    <td>
+        +44 07405045651 🇬🇧
+        <br>
+        +39 03895475461 🇮🇹
+    </td>
+</tr>
 
-<br>
-
-<div>
-    <img width="50"
-    src="assets\imgs\phone.png" alt="My Email" title="My Email"/>
-    <p style="margin-left: 70; margin-top: -53">+44 07405045651 🇬🇧 </p>
-    <p style="margin-left: 70; margin-top: -15">+39 03895475461 🇮🇹 </p>
-</div>
+</table>
