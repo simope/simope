@@ -11,8 +11,6 @@ After that, I joined Simbeyond as R&D Engineer, in Eindhoven (NL). It was a soft
 
 I'm now in London looking for a new job position, where ideally I can use the skills that I learnt and improved in these years.
 
-<br>
-
 ## My tech stack (expanding)
 <img width="50" src="assets\imgs\python.png"
 alt="Python" title="Python"/> 
