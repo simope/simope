@@ -23,7 +23,7 @@ I'm now in London looking for a new job position, where ideally I can use the sk
     <img width="50" style="margin-right: 25"
     src="assets\imgs\linux.png" alt="Linux" title="Linux"/>
     <img width="50" style="margin-right: 25"
-    src="assets\imgs\docker.png" alt="Docker" title="Docker"/>
+    src="assets\imgs\Docker.png" alt="Docker" title="Docker"/>
     <img width="50" style="margin-right: 25"
     src="assets\imgs\NumPy.png" alt="NumPy" title="NumPy"/>
     <img width="50" style="margin-right: 25"
