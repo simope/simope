@@ -101,7 +101,7 @@ Transforming the development of advanced materials and high-tech devices, reduci
 <tr>
     <td>
         <img width="50"
-        src="assets\imgs\phone.png" alt="My Email" title="My Email"/>
+        src="assets\imgs\phone.png" alt="My Phone" title="My Phone"/>
     </td>
     <td>
         +44 07405045651 🇬🇧
