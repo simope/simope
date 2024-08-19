@@ -16,6 +16,8 @@ I'm now in London looking for a new job position, where ideally I can use the sk
 alt="Python" title="Python"/> 
 <img width="50" src="assets\imgs\sql.png"
 alt="SQL" title="SQL"/>
+<img width="50" src="assets\imgs\excel.png"
+alt="Excel" title="Excel"/>
 <img width="50" src="assets\imgs\git.png"
 alt="Git" title="Git"/>
 <img width="50" src="assets\imgs\linux.png"
