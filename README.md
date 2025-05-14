@@ -9,7 +9,9 @@ My education is in Engineering Physics (BSc, 2019) and Nanotechnologies (MSc, 20
 
 After that, I joined Simbeyond as R&D Engineer, in Eindhoven (NL). It was a software company developing multiphysical simulation software for organic electronics. My role was mainly working with the Python codebase, with other tasks such as research brainstorms, documentation, customer support. I worked from December 2021 to November 2023, when unfortunately the company closed. 
 
-I'm now in London looking for a new job position, where ideally I can use the skills that I learnt and improved in these years.
+In mid 2024 I moved to London, and in November I started a contract role as a Python developer consultant for Talan UK, working at Societe Generale. There, I contributed to the development of an internal reporting tool written in Python, to serve it for internal use through FastAPI and to test the software with PyTest. This role lasted until April 2025.
+
+I'm now looking for a new job role, where I can use the skills that I learnt and improved in these years, ideally in the scientific / tech field.
 
 ## My tech stack (expanding)
 <img width="50" src="assets\imgs\python.png"
