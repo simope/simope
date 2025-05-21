@@ -37,7 +37,15 @@ alt="Matplotlib" title="Matplotlib"/>
 
 ## My work experience
 
-### R&D Engineer @ Simbeyond B.V.
+### Python Developer @ Societe Generale via Talan UK (Nov 24 - Apr 25)
+
+*	Developing Python-based analytical tools for financial risk modeling, with use of Pandas, NumPy, Docker, Git, Linux, Excel.
+*	Building API for the Python tool and served it for internal use through FastAPI.
+*	Building extensive test coverage for the developed software in PyTest.
+*	Leveraging machine learning for baseline and adverse risk scenarios. 
+*	Collaborating with business teams to enhance data processing and analysis.
+
+### R&D Engineer @ Simbeyond B.V. (Dec 21 - Nov 23)
 
 Transforming the development of advanced materials and high-tech devices, reducing R&D costs and time-to-market through multi physical simulations.
 
@@ -46,6 +54,9 @@ Transforming the development of advanced materials and high-tech devices, reduci
 * Participated in DevOps monthly cycles, testing new cloud environments, UX, UI, and platform features
 * Compiled technical reports for software documentation and marketing insights
 * Handled technical customer support emails
+
+
+
 
 ## My education
 
