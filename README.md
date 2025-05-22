@@ -13,6 +13,9 @@ In mid 2024 I moved to London, and in November I started a contract role as a Py
 
 I'm now looking for a new job role, where I can use the skills that I learnt and improved in these years, ideally in the scientific / tech field.
 
+## ML learning projects
+* Blood-Brain Barrier Penetration of molecules: https://bbbppredict.streamlit.app/
+
 ## My tech stack (expanding)
 <img width="50" src="assets\imgs\python.png"
 alt="Python" title="Python"/> 
